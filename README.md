@@ -8,7 +8,7 @@ You can launch the application with by running:
 
 		$ ./gradlew bootRun
 
-And request http://localhost:9090//api/v1/customers.
+And request http://localhost:9090/api/v1/customers.
 
 This project uses a [Gradle Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html).
 
